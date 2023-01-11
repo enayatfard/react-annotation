@@ -21,7 +21,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "prepare": "npm run buid",
+    "prepare": "npm run build",
     "preview": "vite preview"
   },
   "dependencies": {
